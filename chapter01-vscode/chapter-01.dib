@@ -1,0 +1,25 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+Console.WriteLine("Hello c#")
+
+#!csharp
+
+#!about
+
+#!markdown
+
+# Chapter 1 - Hello C#, Welcome home
+
+Mixing *rich* **text** and code as well!
+
+#!csharp
+
+int number = 199;
+
+#!csharp
+
+Console.WriteLine(number);

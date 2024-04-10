@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>12</LangVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Packt.CSdotnet.SharedLibrary</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Title>C# 12 and .Net 8 Shared Library</Title>
+    <Authors>Mark Ahugari</Authors>
+    <PackageLicenseExpression>
+      MS-PL
+    </PackageLicenseExpression>
+    <PackageProjectUrl>
+      
+    </PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
